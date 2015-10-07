@@ -37,6 +37,7 @@ group :development, :test do
   gem 'byebug'
   gem 'devise', '~> 3.4.0'
   gem 'hirb'
+  gem 'bootstrap-sass', '~> 3.3.5.1'
 end
 
 group :development do
